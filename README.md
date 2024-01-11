@@ -1,0 +1,1 @@
+# Prediction-of-Conditions-in-Vertebral-Columns-Using-Classification-Techniques
